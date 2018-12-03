@@ -1,7 +1,4 @@
-"""
- import command is used for downloading library.
-Arcade library has code for building 2D games
-"""
+
 import arcade
 
 # open a window. length, width, name of the window are the parameters
